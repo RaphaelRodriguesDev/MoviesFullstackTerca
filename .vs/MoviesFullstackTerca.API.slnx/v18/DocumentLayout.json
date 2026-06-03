@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\mappings\\moviemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\mappings\\moviemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\request\\users\\usercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\request\\users\\usercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\request\\users\\userupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\request\\users\\userupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\request\\authentication\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\request\\authentication\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\moviesfullstackterca.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\moviesfullstackterca.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\request\\movies\\movieupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\request\\movies\\movieupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\request\\movies\\moviecreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\request\\movies\\moviecreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|c:\\users\\raphael rodrigues\\documents\\development\\fullstackterca\\moviesfullstackterca.api\\moviesfullstackterca.api\\controllers\\healthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474DB5F-6EB7-38DD-3654-85EE14A13D4D}|MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj|solutionrelative:moviesfullstackterca.api\\controllers\\healthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 349,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Mappings\\UserMap.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Mappings\\UserMap.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Mappings\\UserMap.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Mappings\\UserMap.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:41:24.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieMap.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Mappings\\MovieMap.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Mappings\\MovieMap.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Mappings\\MovieMap.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Mappings\\MovieMap.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:55:49.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\appsettings.json",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T22:43:00.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Authentication\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Authentication\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Authentication\\JwtSettings.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Authentication\\JwtSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T16:09:38.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoviesFullstackTerca.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-25T16:09:36.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Request\\Authentication\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Request\\Authentication\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Request\\Authentication\\AuthRequest.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Request\\Authentication\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:39:41.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Request\\Users\\UserUpdateRequest.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Request\\Users\\UserUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Request\\Users\\UserUpdateRequest.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Request\\Users\\UserUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:36:43.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Request\\Users\\UserCreateRequest.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Request\\Users\\UserCreateRequest.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Request\\Users\\UserCreateRequest.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Request\\Users\\UserCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:36:27.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Request\\Movies\\MovieUpdateRequest.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Request\\Movies\\MovieUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Request\\Movies\\MovieUpdateRequest.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Request\\Movies\\MovieUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:34:34.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Request\\Movies\\MovieCreateRequest.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Request\\Movies\\MovieCreateRequest.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Request\\Movies\\MovieCreateRequest.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Request\\Movies\\MovieCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:31:14.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Models\\Login.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:27:06.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Models\\User.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:13:14.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Models\\Movie.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T22:48:20.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Controllers\\HealthCheck.cs",
+              "RelativeDocumentMoniker": "MoviesFullstackTerca.API\\Controllers\\HealthCheck.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\Controllers\\HealthCheck.cs",
+              "RelativeToolTip": "MoviesFullstackTerca.API\\Controllers\\HealthCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T23:35:05.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

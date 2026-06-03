@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MoviesFullstackTerca.API.Controllers.HealthCheck",
+    "Method": "Check",
+    "RelativePath": "api/HealthCheck",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
