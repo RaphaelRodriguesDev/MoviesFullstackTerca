@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoviesFullstackTerca.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f76be806117cf9b873ea84b98a7e15e12c0ba5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a5267dc325bada0dd1b9b252be3bb81be70198e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoviesFullstackTerca.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoviesFullstackTerca.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

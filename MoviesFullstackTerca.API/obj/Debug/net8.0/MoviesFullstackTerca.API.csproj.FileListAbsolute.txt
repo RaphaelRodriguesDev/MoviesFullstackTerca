@@ -143,3 +143,4 @@ C:\Users\Raphael Rodrigues\Documents\development\fullstackTerca\MoviesFullstackT
 C:\Users\Raphael Rodrigues\Documents\development\fullstackTerca\MoviesFullstackTerca.API\MoviesFullstackTerca.API\obj\Debug\net8.0\MoviesFullstackTerca.API.pdb
 C:\Users\Raphael Rodrigues\Documents\development\fullstackTerca\MoviesFullstackTerca.API\MoviesFullstackTerca.API\obj\Debug\net8.0\MoviesFullstackTerca.API.genruntimeconfig.cache
 C:\Users\Raphael Rodrigues\Documents\development\fullstackTerca\MoviesFullstackTerca.API\MoviesFullstackTerca.API\obj\Debug\net8.0\ref\MoviesFullstackTerca.API.dll
+C:\Users\Raphael Rodrigues\Documents\development\fullstackTerca\MoviesFullstackTerca.API\MoviesFullstackTerca.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

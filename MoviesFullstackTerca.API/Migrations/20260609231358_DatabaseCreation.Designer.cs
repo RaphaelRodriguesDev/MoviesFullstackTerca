@@ -11,7 +11,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace MoviesFullstackTerca.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20260602235243_DatabaseCreation")]
+    [Migration("20260609231358_DatabaseCreation")]
     partial class DatabaseCreation
     {
         /// <inheritdoc />
@@ -28,46 +28,57 @@ namespace MoviesFullstackTerca.API.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Overview")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasColumnType("TEXT")
+                        .HasColumnName("overview");
 
                     b.Property<string>("PosterUrl")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(255)
+                        .HasColumnType("VARCHAR")
+                        .HasColumnName("poster_url");
 
                     b.Property<string>("Title")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(100)
+                        .HasColumnType("VARCHAR")
+                        .HasColumnName("title");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Movies");
+                    b.ToTable("movies", (string)null);
                 });
 
             modelBuilder.Entity("MoviesFullstackTerca.API.Models.User", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Password")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(100)
+                        .HasColumnType("VARCHAR")
+                        .HasColumnName("password");
 
                     b.Property<string>("Username")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(50)
+                        .HasColumnType("VARCHAR")
+                        .HasColumnName("username");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Users");
+                    b.ToTable("users", (string)null);
                 });
 #pragma warning restore 612, 618
         }
