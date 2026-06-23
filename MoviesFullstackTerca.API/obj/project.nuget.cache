@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYDgdBw+PHQ=",
+  "dgSpecHash": "Vg6Dp4Xnz9M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj",
+  "projectFilePath": "C:\\Users\\Raphael Rodrigues\\Documents\\development\\aulasFullstack\\fullstackTerca\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API\\MoviesFullstackTerca.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Raphael Rodrigues\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Raphael Rodrigues\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.10\\microsoft.aspnetcore.authentication.jwtbearer.8.0.10.nupkg.sha512",
