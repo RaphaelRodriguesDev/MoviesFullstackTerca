@@ -433,3 +433,36 @@ MoviesFullstackTerca.API/obj/Debug/net8.0/MoviesFullstackTerca.API.AssemblyInfoI
 MoviesFullstackTerca.API/obj/Debug/net8.0/MoviesFullstackTerca.API.assets.cache
 MoviesFullstackTerca.API/obj/Debug/net8.0/MoviesFullstackTerca.API.GeneratedMSBuildEditorConfig.editorconfig
 MoviesFullstackTerca.API/obj/Debug/net8.0/MoviesFullstackTerca.API.GlobalUsings.g.cs
+
+# ============================================================
+# REGRAS ESPECÍFICAS DO PROJETO MOVIES FULLSTACK TERÇA
+# ============================================================
+
+# Arquivos temporários do Visual Studio
+.vs/
+**/.vs/
+
+# Arquivos gerados automaticamente durante a compilação
+MoviesFullstackTerca.API/bin/
+MoviesFullstackTerca.API/obj/
+
+# Ignorar bin e obj em qualquer projeto da solução
+**/[Bb]in/
+**/[Oo]bj/
+
+# Arquivos temporários do Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos gerados pelo .NET
+*.pdb
+*.cache
+*.dll
+*.deps.json
+*.runtimeconfig.json
+
+# Arquivos específicos que apareceram no Git
+.vs/MoviesFullstackTerca.API.slnx/DesignTimeBuild/
+.vs/MoviesFullstackTerca.API.slnx/v18/
