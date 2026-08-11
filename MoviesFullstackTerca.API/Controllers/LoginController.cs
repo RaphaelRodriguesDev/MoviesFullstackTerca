@@ -7,6 +7,8 @@ using MoviesFullstackTerca.API.Request.Login;
 
 namespace MoviesFullstackTerca.API.Controllers;
 
+[ApiController]
+[Route("api/[controller]")]
 public class LoginController : ControllerBase
 {
     [HttpPost]
